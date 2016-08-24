@@ -1,8 +1,7 @@
-high precision syringe pump for water delivery
+## high precision syringe pump for water delivery
 
 non tested
 
-a bunch of screws
 
 4x M3x80 screws
 http://www.hexcrews.com/m3x80-socket-cap-screw.aspx
