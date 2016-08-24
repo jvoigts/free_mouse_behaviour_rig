@@ -1,4 +1,6 @@
-# free_mouse_behaviour_rig
+# DEPRECATED
+
+free_mouse_behaviour_rig
 
 i2c bus
 reward port led
